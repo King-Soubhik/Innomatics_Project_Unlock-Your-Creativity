@@ -1,5 +1,6 @@
 # Innomatics_Project_Unlock-Your-Creativity
 <-- Meme on Machine Learning (ML) -->
+
 The Python script utilizes the Pillow library to load and display an image.It performs the following tasks:
 1) Imports Libraries: It imports the necessary modules from Pillow for image handling and IPython for displaying images inline.
 2) Loads an Image: The script opens an image file (ensure the correct file path is provided).
